@@ -8,3 +8,6 @@ IMPORTANT!!!!!!! Il faut faire une Pull avant pour que ça marche !!!!!! 1) Cliq
 
 Si plusieurs personnes veulent envoyer leur avancé en même temps (comme si on allait travailler chez soi en même temps)
 1) COLLABO!!! sur le projet GitHub 2)model code en local _commits * _fetch from Upstream _Rebase ->conflits ->Add to Index ->Rebase > COntinue _push to upstream
+
+
+Prochaine étape : le projet 
