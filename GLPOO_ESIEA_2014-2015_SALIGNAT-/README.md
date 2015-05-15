@@ -10,14 +10,14 @@ Tutoriel pour comprendre GitHub/Eclipse :)
  4) Other
  5) Git 
  6) Git repository 
- 7) cliquer sur "clone a git repository" 
+ 7) Cliquer sur "clone a git repository" 
  8) Copier le lien dans URL si ça ne se fait pas automatiquement 
  9) S'authentifier avec son compte GitHub 
- 10) cliquer sur next 2 fois à la suite sans rien changé
- 11) pour directory choisir le workspace (du projet si vous avez déjà commencer le projet) 
-12) importer le pom.xml avec l'onglet file puis import et "Existing Maven Project" 
+ 10) Cliquer sur next 2 fois à la suite sans rien changé
+ 11) Pour directory choisir le workspace (du projet si vous avez déjà commencer le projet) 
+12) Importer le pom.xml avec l'onglet file puis import et "Existing Maven Project" 
 
-# IMPORTANT!!! Si vous avez déjà le projet sur votre éclipse pour le mettre à jour cliquez droit puis sur team et finalement sur "Pull" (ça signifie Tirer en anglais)
+IMPORTANT!!! Si vous avez déjà le projet sur votre éclipse pour le mettre à jour cliquez droit puis sur team et finalement sur "Pull" (ça signifie Tirer en anglais)
 
 #Comment exporter le projet éclipse sur le Github de notre groupe de travail ?
 IMPORTANT!!!!!!! Il faut faire une Pull avant pour que ça marche !!!!!!

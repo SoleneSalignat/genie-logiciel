@@ -4,9 +4,6 @@ import javax.imageio.*;
 import javax.swing.*;
 
 
-
-
-
 public class Runner  {
 	
 	public static void main(String[] args)  {
@@ -17,4 +14,3 @@ public class Runner  {
 	
 		
 	}
-}

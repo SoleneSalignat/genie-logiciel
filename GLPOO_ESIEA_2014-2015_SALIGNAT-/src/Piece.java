@@ -6,6 +6,7 @@ import java.awt.Polygon;
 import javax.swing.JComponent;
 
 
+
 public class Piece extends JComponent {
 
 	public int motifs[] = new int[4];	
