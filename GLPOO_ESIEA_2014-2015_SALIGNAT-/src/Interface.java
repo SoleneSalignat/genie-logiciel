@@ -13,7 +13,7 @@ public class Interface {
 	
 	public boolean win(){	
 		
-		//On verrifie que toute les case du plateau sont pleine
+		//On verifie que toutes les cases du plateau sont pleines
 		for(int i=0; i<size.x ; i++){
 			for(int j=0; j<size.y ; j++){	
 				if(pieces[i][j].motifs[0] == 0){	
@@ -22,7 +22,7 @@ public class Interface {
 			}
 		}
 		
-		//On verrifie que totue les bordure noir sont bien au bord
+		//On verifie que toutes les bordures noirs sont bien au bord
 		for(int i=0; i<size.x ; i++){				
 				if(pieces[i][0].motifs[1] != 1 || pieces[i][size.y-1].motifs[3] != 1 ){	
 					return false;
@@ -34,7 +34,7 @@ public class Interface {
 			}			
 		}	
 		
-		//On verifie que les faces voisine sont les meme
+		//On verifie que les faces voisines sont les memes
 		for(int i=1; i<size.x-1 ; i++){
 			for(int j=1; j<size.y-1 ; j++){	
 				
@@ -57,7 +57,7 @@ public class Interface {
 			}
 		}
 		
-		//C'est gagner :)
+		//C'est gagnŽ :)
 		
 		javax.swing.JOptionPane.showMessageDialog(null,"Bravo tu as gagné !!! :D"); 
 		return true;
