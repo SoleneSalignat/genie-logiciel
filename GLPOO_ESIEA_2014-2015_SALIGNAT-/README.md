@@ -1,7 +1,11 @@
-# genie-logiciel
+#Projet  GLPOO 2014-2015 
+# RŽalisation du jeu Eternity II 
+
+Tutoriel pour comprendre GitHub/Eclipse :) 
 
 #Comment importer Github sur Ã©clipse ?
-1) Copier le lien https://github.com/SoleneSalignat/genie-logiciel.git 2) Sur eclipse aller sur l'onglet window 
+1) Copier le lien https://github.com/SoleneSalignat/genie-logiciel.git 
+2) Sur eclipse aller sur l'onglet window 
 3) Show view
  4) Other
  5) Git 
